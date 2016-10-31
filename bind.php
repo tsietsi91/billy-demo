@@ -19,6 +19,8 @@ require("configure.php");
         <meta name="keywords" content="Multiple dropdown with jquery ajax and php">
         <meta name="author" content="Shahrukh Khan">
         <title>Multiple dropdown with jquery ajax and php - thesoftwareguy</title>
+        <title>Multiple dropdown with jquery ajax and php - thesoftwareguy</title>
+
         <link rel="stylesheet" href="style.css" type="text/css" />
         <style>
             select {
